@@ -1,2 +1,2 @@
 # my-notes
-first lab
+Hello I am Esraa. An EE graduate from the Hashemite University.
